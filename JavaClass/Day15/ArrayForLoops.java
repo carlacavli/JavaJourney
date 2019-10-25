@@ -10,11 +10,6 @@ public class ArrayForLoops {
 //        System.out.println();
 
 
-//        int[] numbers = { 32,2,11,45,9,56};
-//        int min=0;
-//        for(int i = 0;i < numbers.length; i++){
-//            if (numbers[i]< min)
-//                min =numbers[i];
 //        }
 //        System.out.println(min);
 
