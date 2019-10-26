@@ -81,7 +81,12 @@ public class AnvarHomeWork1 {
 //            default:
 //                System.out.println("no result");
 //
-//        }
+//
+
+
+
+
+
 
     }
 }

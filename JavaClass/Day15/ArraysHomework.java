@@ -11,7 +11,7 @@ public class ArraysHomework {
         //OUTPUT: average: (34+5+6+2+3+78+1)/7
 
 
-        //task 1 :
+        //task 1 ,2 ,3 :
         int [] arr ={4,6,8,34,55,};
         int max = arr[0];
         int min =arr[0];
