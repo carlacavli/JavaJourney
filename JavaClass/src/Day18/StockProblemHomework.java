@@ -7,7 +7,7 @@ public class StockProblemHomework {
         // explanation : in this case no transaction is done , i.e max profit = 0.
 
         int [] prices = new int[]{7, 6,4,3,1};
-        int min = Integer.MIN_VALUE;
+        int min = Integer.MAX_VALUE;
         int maxProfit = 0;
         for (int p : prices) {
             min = Math.min(min, p);
