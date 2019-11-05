@@ -1,0 +1,27 @@
+package Day19;
+
+import java.util.HashSet;
+
+public class JavaSetTask3 {
+    public static void main(String[] args) {
+
+        //3. Write a Java program to get the number of elements in a hash set.
+
+
+            HashSet<Integer> numbers = new HashSet<>();
+            numbers.add(1);
+            numbers.add(2);
+            numbers.add(3);
+            numbers.add(10);
+
+            numbers.add(5);
+            numbers.add(5);
+            numbers.add(5);
+            numbers.add(5);
+            numbers.add(5);
+            System.out.println(numbers);
+
+           System.out.println("number of elements is: " + numbers.size());
+
+        }
+}
