@@ -97,7 +97,7 @@ public class HasMapTask15 {
             }
             if(count != 0)
             {
-                System.out.println(str.charAt(i) + count + " time");
+                System.out.println(str.charAt(i) + " Occured " + count + " time");
             }
 
 
