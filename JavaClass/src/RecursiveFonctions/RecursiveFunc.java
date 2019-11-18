@@ -15,13 +15,12 @@ public class RecursiveFunc {
     // f(9): 9+ f(10) -> 9+ 10
     // f(10): 10
     public static void main(String[] args) {
-       /* int toplam = 0;
-        for(int i = 0;i<10;i++){
-            toplam += i+1;
-            System.out.println("toplam:"+ toplam + "i: "+ i);
-        }
-        System.out.println("Sonuç"+toplam);
-        */
+//       int toplam = 0;
+//        for(int i = 0;i<10;i++){
+//            toplam += i+1;
+//            System.out.println("toplam:"+ toplam + "i: "+ i);
+//        }
+//        System.out.println("Sonuç"+toplam);
         System.out.println("f(0):"+ f(0));
     }
 
