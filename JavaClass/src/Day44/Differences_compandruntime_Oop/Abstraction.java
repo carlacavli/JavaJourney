@@ -38,7 +38,10 @@ public class Abstraction {
     4.If a class has abstract method .Its class should also been declared as abstract.
      */
 
+   /*
+   constructorda abstract olmaz , it works only method and classes.
 
+   */
 
 
 
